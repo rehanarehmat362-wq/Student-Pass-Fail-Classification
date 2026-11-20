@@ -40,7 +40,6 @@ A Logistic Regression classification model is trained using a synthetic student 
 - Test accuracy: 100%
 - Test samples: 4
 
-**Important:** The dataset is synthetic and contains only 20 student records. The 100% test accuracy is a demonstration result, not evidence of real-world performance.
 
 ## Project Files
 
